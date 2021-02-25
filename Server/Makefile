@@ -42,4 +42,4 @@ tcp_server.o: Source_Files/tcp_server.cc Header_Files/tcp_server.h Header_Files/
 
 .PHONY: clean
 clean:
-	$(RM) -f $(PROGRAM) *.o
+	$(RM) -f $(PROGRAM) $(OBJS)
