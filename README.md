@@ -4,7 +4,7 @@
 
 ## ビルド
 
-`LINE_style_one_on_one`ディレクトリで次のコマンドを実行してください。
+`LINEStyleOneOnOne`ディレクトリで次のコマンドを実行してください。
 
 ```
 make -j
@@ -19,13 +19,13 @@ make -j
 
 ## アプリケーションの実行
 
-サーバー アプリケーションを実行するには、`LINE_style_one_on_one/Server`ディレクトリで次のコマンドを実行してください。
+サーバー アプリケーションを実行するには、`LINEStyleOneOnOne/Server`ディレクトリで次のコマンドを実行してください。
 
 ```
 ./server
 ```
 
-またクライアント アプリケーションを実行するには、`LINE_style_one_on_one/Client`ディレクトリで次のコマンドを実行してください。
+またクライアント アプリケーションを実行するには、`LINEStyleOneOnOne/Client`ディレクトリで次のコマンドを実行してください。
 
 ```
 ./client
